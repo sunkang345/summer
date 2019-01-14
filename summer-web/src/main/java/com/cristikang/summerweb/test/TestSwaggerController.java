@@ -14,7 +14,7 @@ import java.util.*;
  * @CreateTime: 2019-01-14 15:00
  * @Description: ${Description}
  */
-@Api(value = "TestController")
+@Api(value = "测试swagger")
 @RestController
 @RequestMapping(value = "/books")
 public class TestSwaggerController {
